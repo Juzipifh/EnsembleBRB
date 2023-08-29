@@ -1,0 +1,14 @@
+algorithm = EBRB
+inputData = "/Users/yangyangxue/Downloads/KEEL-master/bin/data/balance/balance-10-1tra.dat" "/Users/yangyangxue/Downloads/KEEL-master/bin/data/balance/balance-10-1tra.dat" "/Users/yangyangxue/Downloads/KEEL-master/bin/data/balance/balance-10-1tst.dat"
+
+outputData = "/Users/yangyangxue/Downloads/result0s0.tra" "/Users/yangyangxue/Downloads/result0s0.tst" "/Users/yangyangxue/Downloads/result0e0.txt" "/Users/yangyangxue/Downloads/result0e1.txt"  
+
+Number of labels= 4
+Number of attributes of each weak classifier=2
+Number of weak classifier=20
+Maximum number of cycles=200
+Number of population=50
+Mutation probability=0.5
+Cross probability=0.8
+
+
